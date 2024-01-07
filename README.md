@@ -1,4 +1,4 @@
-# Virtual Data Science Internship with Bharat Intern
+# Virtual Data Science Internship Project
 
 ## Task 2: Titanic Classification Model
 
